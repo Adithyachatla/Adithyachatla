@@ -11,7 +11,7 @@ languages
 
 hardware & microcontrollers
 
-<p> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /> <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" /> </p>
+<p> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /> <img src="https://img.shields.io/badge/Raspberry%20Pi%20-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" /> </p>
 
 tools & platforms
 
