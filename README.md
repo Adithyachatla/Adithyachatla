@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm Adithya 👾</h1> <p align="center"> <b>ece student • tech nerd • builder</b> </p> <p align="center"> messing with hardware, writing code &amp; figuring out how things work. </p> <p align="center"> <img src="https://img.shields.io/badge/B.Tech-ECE-1f6feb?style=flat-square" alt="B.Tech ECE" /> <img src="https://img.shields.io/badge/into-embedded%20%26%20firmware-2ea043?style=flat-square" alt="Into embedded and firmware" /> <img src="https://img.shields.io/badge/status-always%20learning-f0883e?style=flat-square" alt="Always learning" /> </p>
+<h1 align="center">hey!, i'm Adithya 👾</h1> <p align="center"> <b>ece student • tech nerd • builder</b> </p> <p align="center"> messing with hardware, writing code &amp; figuring out how things work. </p> <p align="center"> <img src="https://img.shields.io/badge/B.Tech-ECE-1f6feb?style=flat-square" alt="B.Tech ECE" /> <img src="https://img.shields.io/badge/into-embedded%20%26%20firmware-2ea043?style=flat-square" alt="Into embedded and firmware" /> <img src="https://img.shields.io/badge/status-always%20learning-f0883e?style=flat-square" alt="Always learning" /> </p>
 🧑‍💻 about me
 
 ece student into hardware, code & everything in between.<br> learning by building, breaking stuff, and figuring it out.<br> currently exploring embedded systems, robotics & electronics.
@@ -15,7 +15,7 @@ hardware & microcontrollers
 
 tools & platforms
 
-<p> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </p>
+<p> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </p>   <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
 🔭 areas of interest
 🔌 embedded systems & firmware
 🤖 robotics & automation
