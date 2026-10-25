@@ -1,5 +1,5 @@
 <h1 align="center">hey!, i'm Adithya 👾</h1> <p align="center"> <b>ece student • tech nerd • builder</b> </p> <p align="center"> messing with hardware, writing code &amp; figuring out how things work. </p> <p align="center"> <img src="https://img.shields.io/badge/B.Tech-ECE-1f6feb?style=flat-square" alt="B.Tech ECE" /> <img src="https://img.shields.io/badge/into-embedded%20%26%20firmware-2ea043?style=flat-square" alt="Into embedded and firmware" /> <img src="https://img.shields.io/badge/status-always%20learning-f0883e?style=flat-square" alt="Always learning" /> </p>
-🧑‍💻 *About me*
+🧑‍💻 <b>About me<b>
 
 ece student into hardware, code & everything in between.<br> learning by building, breaking stuff, and figuring it out.<br> currently exploring embedded systems, robotics & electronics.
 
